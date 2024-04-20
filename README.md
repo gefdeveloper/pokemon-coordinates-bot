@@ -23,13 +23,13 @@ To run this project, you'll need to add the following environment variables to y
 Clone the project
 
 ```bash
-$ git clone https://github.com/Geffrerson7/iv100.git
+$ git clone https://github.com/chutyhack/pokemon-coordinates-bot.git
 ```
 
 Navigate to the project directory
 
 ```bash
-$ cd iv100
+$ cd pokemon-coordinates-bot
 ```
 
 Create a virtual environment
